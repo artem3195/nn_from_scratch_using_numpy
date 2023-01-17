@@ -4,5 +4,4 @@ This code is based on the NumPy library, thus all formulas such as data preparat
 
 TODO: 
 1. Combine all functions into the classes
-2. Prepare all data before sampling and passing mini batch to training epochs
 
